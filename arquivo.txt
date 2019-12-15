@@ -1,0 +1,11 @@
+total 36
+drwxr-xr-x 3 marcelo marcelo 4096 dez 14 21:28 .
+drwxr-xr-x 6 marcelo marcelo 4096 dez 14 20:45 ..
+-rw-r--r-- 1 marcelo marcelo    0 dez 14 21:54 arquivo.txt
+-rw-r--r-- 1 marcelo marcelo  802 dez 14 21:54 controle.py
+drwxr-xr-x 8 marcelo marcelo 4096 dez 14 21:54 .git
+-rw-r--r-- 1 marcelo marcelo 1799 dez 14 20:45 .gitignore
+-rw-r--r-- 1 marcelo marcelo  728 dez 14 21:18 os_identify.py
+-rw-r--r-- 1 marcelo marcelo   14 dez 14 20:45 README.md
+-rw-r--r-- 1 marcelo marcelo  410 dez 14 21:25 things.py
+-rw-r--r-- 1 marcelo marcelo  127 dez 14 21:20 ver_identify.py
